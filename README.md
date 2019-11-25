@@ -6,7 +6,7 @@
 * Private Leaderboard place: 5th
 
 ## Entrypoints for the 5th-place solution
-The solution is presented in the Keep-Digging-Gold-Solution-Doc.pdf and Keep-Digging-Gold-Solution-Slides.pdf
+The solution is presented in the Keep-Digging-Gold-Solution-Doc.pdf and Keep-Digging-Gold-Solution-Slides.pdf. A video is also available at https://www.youtube.com/watch?v=1zLBxwTAcAs&t=16s.
 
 ### Train models 
 Follow the instructions in the following 3 repositories to train 9 models (as indicated in the Keep-Digging-Gold-Solution-Doc.pdf), generate predictions for the test set and the out-of-fold-train set 
