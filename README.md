@@ -1,9 +1,15 @@
 # RSNA Intracranial Hemorrhage Detection
 
+* Competition name: RSNA Intracranial Hemorrhage Detection https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
+* Team name: Keep Digging Gold
+* Private Leaderboard score: 0.04561
+* Private Leaderboard place: 5th
+
 ## Entrypoints for the 5th-place solution
+The solution is presented in the Keep-Digging-Gold-Solution-Doc.pdf and Keep-Digging-Gold-Solution-Slides.pdf
 
 ### Train models 
-Follow the instructions in the following 3 repositories to train 9 models, generate predictions for the test set and the out-of-fold-train set 
+Follow the instructions in the following 3 repositories to train 9 models (as indicated in the Keep-Digging-Gold-Solution-Doc.pdf), generate predictions for the test set and the out-of-fold-train set 
 * [1] Bac Nguyen’s source code
 https://github.com/ngxbac/Kaggle-RSNA
 * [2] Nguyen Tai Tri Duc 's pipeline to train InceptionV3 + Deepsupervision
